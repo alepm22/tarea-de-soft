@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: FrankyService
+server:
+  port: 9090
+
+dollarOfficial: 6.96
+
+greeting:
+  messages:
+    es: "Pregúntate si lo que estás haciendo hoy te acerca al lugar en el que quieres estar mañana."
+    en: "Ask yourself if what you are doing today is getting you closer to where you want to be tomorrow."
+    fr: "Demandez-vous si ce que vous faites aujourd'hui vous rapproche de l'endroit où vous voulez être demain."
